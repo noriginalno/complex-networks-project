@@ -1,2 +1,2 @@
 # complex-networks-project
-Task solution for CN cource
+Task solution for CN course
